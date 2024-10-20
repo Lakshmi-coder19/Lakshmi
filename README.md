@@ -2,12 +2,12 @@
 
 int main(void)
 {
-  int a,b,sum;
+  int a,b,multiply;
   a=5,b=6;
-  sum=a+b;
-  printf("sum=%d",sum);
+  multiply=a*b;
+  printf("multiply=%d",multiply);
 }
    
-  sum=11
+  multiply=30
   
   
