@@ -1,7 +1,13 @@
-
 #include <stdio.h>
 
-int main(void) {
-  printf("Hello World\n");
-  return 0;
+int main(void)
+{
+  int a,b,sum;
+  a=5,b=6;
+  sum=a+b;
+  printf("sum=%d",sum);
 }
+   
+  sum=11
+  
+  
