@@ -1,2 +1,7 @@
-# Lakshmi
-My first repository in Semester 1
+
+#include <stdio.h>
+
+int main(void) {
+  printf("Hello World\n");
+  return 0;
+}
